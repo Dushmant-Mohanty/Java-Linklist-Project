@@ -1,4 +1,4 @@
-# Java Single-Linklist Project 🧵
+# Java Singly-Linklist Project 🧵
 
 A **console-based Java application** for performing operations on a **singly linked list**.
 
